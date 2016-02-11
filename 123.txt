@@ -1,3 +1,0 @@
-print("hello world!")
-print("Zefir is a cat")
-11111
